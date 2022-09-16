@@ -9,6 +9,18 @@
 
 **ES:** Este repositorio contiene todos los materiales para las clases del curso Economía Internacional del Grado de Administración y Dirección de Empresas en la Universitat Autònoma de Barcelona. El repositorio se actualizará a medida que avanzamos con el curso.
 
+## Descripción del curso
+
+Los objetivos formativos de la asignatura son: aprender los principales conceptos necesarios para entender y analizar las relaciones económicas internacionales; ntroducir las problemáticas que tanto para las empresas como para los gobiernos se derivan de las relaciones económicas internacionales; conocer los enfoques teóricos más importantes de las transacciones económicas internacionales, especialmente en cuanto al comercio internacional y las políticas que se derivan; ofrecer una visión actual (empírica y teórica) de los procesos de integración económica internacional; e introducir el estudio de las instituciones económicas internacionales, de sus objetivos, competencias y funcionamiento.
+
+### Clases
+Las clases se dictan en el Aula 7J del Aulari Central los Lunes de 09:00 a 11:00 y los Martes de 11:15 a 13:15.
+
+### Evaluación
+La evaluación del aprendizaje se realizará mediante:
+- Primer exámen parcial (30%)
+- Actividades en clase (20%)
+- Segundo exámen parcial (50%)
 
 ## Entrega
 
