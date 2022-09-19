@@ -46,7 +46,7 @@ La evaluación del aprendizaje se realizará mediante:
 
 **Martes 20 Sept 2022: Clase 11:15 - 13:15 (Aula: 7J Aulari Central)**
 
-- Repaso. Ejercicio de índices y variaciones: PIB en España [[01_exercises](https://github.com/martinbrun/UAB-international/raw/main/01_exercises.pdf)]
+- Repaso. Ejercicio de índices y variaciones: Exportaciones de Aceite de Oliva al Mercosur [[01_exercises](https://github.com/martinbrun/UAB-international/raw/main/01_exercises.pdf)]
 - Macromagnitudes básicas [[02_pib](https://github.com/martinbrun/UAB-international/raw/main/02_pib.pdf)]
 - Ejercicios de macromagnitudes básicas [[02_exercises](https://github.com/martinbrun/UAB-international/raw/main/02_exercises.pdf)]
 
