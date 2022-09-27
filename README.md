@@ -29,27 +29,38 @@ La evaluación del aprendizaje se realizará mediante:
 
 ## Progreso en clase [materiales en los links]
 
-**Lunes 12 Sept 2022: Clase 09:00 - 11:00 (Aula: 7J Aulari Central)**
+**Lunes 12 Sep 2022: Clase 09:00 - 11:00 (Aula: 7J Aulari Central)**
 
 - Introducción general al curso [[00_intro1](https://github.com/martinbrun/UAB-international/raw/main/00_intro1.pdf)]
 - Introducción a primera parte del curso [[00_intro2](https://github.com/martinbrun/UAB-international/raw/main/00_intro2.pdf)]
 
-**Martes 13 Sept 2022: Clase 11:15 - 13:15 (Aula: 7J Aulari Central)**
+**Martes 13 Sep 2022: Clase 11:15 - 13:15 (Aula: 7J Aulari Central)**
 
 - Uso de índices y cálculo de variaciones: hasta índices de variación (IV) [[01_vars](https://github.com/martinbrun/UAB-international/raw/main/01_vars.pdf)]
 - Ejercicios de índices y variaciones: PIB en Europa [[01_exercises](https://github.com/martinbrun/UAB-international/raw/main/01_exercises.pdf)]
 
-**Lunes 19 Sept 2022: Clase 09:00 - 11:00 (Aula: 7J Aulari Central)**
+**Lunes 19 Sep 2022: Clase 09:00 - 11:00 (Aula: 7J Aulari Central)**
 
 - Uso de índices y cálculo de variaciones: hasta el final [[01_vars](https://github.com/martinbrun/UAB-international/raw/main/01_vars.pdf)]
 - Ejercicios de índices y variaciones: PIB en el Mundo, Exportaciones de Aceite de Oliva al Mercosur [[01_exercises](https://github.com/martinbrun/UAB-international/raw/main/01_exercises.pdf)]
 
-**Martes 20 Sept 2022: Clase 11:15 - 13:15 (Aula: 7J Aulari Central)**
+**Martes 20 Sep 2022: Clase 11:15 - 13:15 (Aula: 7J Aulari Central)**
 
 - Repaso. Ejercicio de índices y variaciones: Exportaciones de Aceite de Oliva al Mercosur [[01_exercises](https://github.com/martinbrun/UAB-international/raw/main/01_exercises.pdf)]
 - Macromagnitudes básicas: análisis macroeconómico [[02_pib](https://github.com/martinbrun/UAB-international/raw/main/02_pib.pdf)]
 
-**Martes 27 Sept 2022: Clase 11:15 - 13:15 (Aula: 7J Aulari Central)**
+**Martes 27 Sep 2022: Clase 11:15 - 13:15 (Aula: 7J Aulari Central)**
 
-- Macromagnitudes básicas: agregados macroeconómicos [[02_pib](https://github.com/martinbrun/UAB-international/raw/main/02_pib.pdf)]
-- Ejercicios de macromagnitudes básicas: Calcular PIB, Calcular Renta Disponible [[02_exercises](https://github.com/martinbrun/UAB-international/raw/main/02_exercises.pdf)]
+- Macromagnitudes básicas: agregados macroeconómicos (PIB oferta/demanda) [[02_pib](https://github.com/martinbrun/UAB-international/raw/main/02_pib.pdf)]
+- Ejercicios de macromagnitudes básicas: Calcular PIB [[02_exercises](https://github.com/martinbrun/UAB-international/raw/main/02_exercises.pdf)]
+
+**Lunes 03 Oct 2022: Clase 09:00 - 11:00 (Aula: 7J Aulari Central)**
+
+- Macromagnitudes básicas: agregados macroeconómicos (PIB renta) [[02_pib](https://github.com/martinbrun/UAB-international/raw/main/02_pib.pdf)]
+- Ejercicios de macromagnitudes básicas: Calcular Renta Disponible [[02_exercises](https://github.com/martinbrun/UAB-international/raw/main/02_exercises.pdf)]
+- Herramientas para el análisis de relaciones internacionales: medición BCC [[03_bp](https://github.com/martinbrun/UAB-international/raw/main/03_pib.pdf)]
+
+**Martes 27 Sep 2022: Clase 11:15 - 13:15 (Aula: 7J Aulari Central)**
+
+- Herramientas para el análisis de relaciones internacionales: medición BCC [[03_bp](https://github.com/martinbrun/UAB-international/raw/main/03_pib.pdf)]
+- Ejercicios de análisis de relaciones internacionales [[03_exercises](https://github.com/martinbrun/UAB-international/raw/main/03_exercises.pdf)]
