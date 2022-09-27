@@ -60,7 +60,12 @@ La evaluación del aprendizaje se realizará mediante:
 - Ejercicios de macromagnitudes básicas: Calcular Renta Disponible [[02_exercises](https://github.com/martinbrun/UAB-international/raw/main/02_exercises.pdf)]
 - Herramientas para el análisis de relaciones internacionales: medición BCC [[03_bp](https://github.com/martinbrun/UAB-international/raw/main/03_pib.pdf)]
 
-**Martes 27 Sep 2022: Clase 11:15 - 13:15 (Aula: 7J Aulari Central)**
+**Martes 04 Oct 2022: Clase 11:15 - 13:15 (Aula: 7J Aulari Central)**
 
-- Herramientas para el análisis de relaciones internacionales: medición BCC [[03_bp](https://github.com/martinbrun/UAB-international/raw/main/03_pib.pdf)]
+- Herramientas para el análisis de relaciones internacionales [[03_bp](https://github.com/martinbrun/UAB-international/raw/main/03_pib.pdf)]
+- Ejercicios de análisis de relaciones internacionales [[03_exercises](https://github.com/martinbrun/UAB-international/raw/main/03_exercises.pdf)]
+
+**Lunes 10 Oct 2022: Clase 09:00 - 11:00 (Aula: 7J Aulari Central)**
+
+- Herramientas para el análisis de relaciones internacionales [[03_bp](https://github.com/martinbrun/UAB-international/raw/main/03_pib.pdf)]
 - Ejercicios de análisis de relaciones internacionales [[03_exercises](https://github.com/martinbrun/UAB-international/raw/main/03_exercises.pdf)]
