@@ -56,7 +56,7 @@ La evaluación del aprendizaje se realizará mediante:
 
 **Lunes 03 Oct 2022: Clase 09:00 - 11:00 (Aula: 7J Aulari Central)**
 
-- Repaso. Solución de Primera entrega [homework-solution](https://github.com/martinbrun/UAB-international/raw/main/homework-solution.pdf)
+- Repaso. Solución de Primera entrega [[homework-solution](https://github.com/martinbrun/UAB-international/raw/main/homework-solution.pdf)]
 - Macromagnitudes básicas: agregados macroeconómicos (PIB renta) [[02_pib](https://github.com/martinbrun/UAB-international/raw/main/02_pib.pdf)]
 - Ejercicios de macromagnitudes básicas: Calcular Renta Disponible [[02_exercises](https://github.com/martinbrun/UAB-international/raw/main/02_exercises.pdf)]
 - Herramientas para el análisis de relaciones internacionales: medición BCC [[03_bp](https://github.com/martinbrun/UAB-international/raw/main/03_pib.pdf)]
