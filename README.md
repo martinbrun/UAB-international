@@ -69,3 +69,8 @@ La evaluación del aprendizaje se realizará mediante:
 
 - Herramientas para el análisis de relaciones internacionales [[03_bp](https://github.com/martinbrun/UAB-international/raw/main/03_pib.pdf)]
 - Ejercicios de análisis de relaciones internacionales [[03_exercises](https://github.com/martinbrun/UAB-international/raw/main/03_exercises.pdf)]
+
+**Viernes 28 Oct 2022: Primer Exámen parcial 10:30 - 12:00 (Aulas: 2 y 2B)**
+
+- Solución del exámen [[exam-solution](https://github.com/martinbrun/UAB-international/raw/main/exam-solution.pdf)]
+
