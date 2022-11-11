@@ -18,9 +18,9 @@ Las clases se dictan en el Aula 7J del Aulari Central los Lunes de 09:00 a 11:00
 
 ### Evaluación
 La evaluación del aprendizaje se realizará mediante:
-- Primer exámen parcial (30%)
+- Primer examen parcial (30%)
 - Actividades en clase (20%)
-- Segundo exámen parcial (50%)
+- Segundo examen parcial (50%)
 
 ## Entrega
 
@@ -70,7 +70,8 @@ La evaluación del aprendizaje se realizará mediante:
 - Herramientas para el análisis de relaciones internacionales [[03_bp](https://github.com/martinbrun/UAB-international/raw/main/03_pib.pdf)]
 - Ejercicios de análisis de relaciones internacionales [[03_exercises](https://github.com/martinbrun/UAB-international/raw/main/03_exercises.pdf)]
 
-**Viernes 28 Oct 2022: Primer Exámen parcial 10:30 - 12:00 (Aulas: 2 y 2B)**
+**Viernes 28 Oct 2022: Primer Examen parcial 10:30 - 12:00 (Aulas: 2 y 2B)**
 
-- Solución del exámen [[exam-solution](https://github.com/martinbrun/UAB-international/raw/main/exam-solution.pdf)]
+- Solución del examen [[exam-solution](https://github.com/martinbrun/UAB-international/raw/main/exam-solution.pdf)]
+- Calificaciones del exámen [[exam-grades](https://github.com/martinbrun/UAB-international/raw/main/exam-grades.pdf)]
 
